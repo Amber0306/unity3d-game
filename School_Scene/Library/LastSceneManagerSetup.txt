@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TirGames/SchoolScene/Scenes/SchoolSceneDay.unity
+  isLoaded: 1
+  isActive: 1
