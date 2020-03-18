@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obj>
+<dinos >
+<user id="1">
+<username>FTeam</username>
+</user>
+<user id="2">
+<password>12345678</password>
+</user>
+
+</dinos>
+</obj>
