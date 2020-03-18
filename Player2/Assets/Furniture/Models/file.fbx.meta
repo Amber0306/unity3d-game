@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 49a1863e77d572449a8fc1b66d60ee7b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3D Models at 3dxy
+    100002: Box01
+    100004: Box02
+    100006: Box03
+    100008: Box05
+    100010: Box06
+    100012: ChamferBox01
+    100014: ChamferBox02
+    100016: //RootNode
+    100018: Line01
+    100020: Line02
+    100022: Line03
+    100024: Line04
+    100026: Line05
+    100028: Line07
+    100030: Line08
+    100032: Line09
+    100034: Line10
+    100036: Line11
+    100038: Line12
+    100040: Line13
+    100042: Line14
+    100044: Line15
+    100046: Rectangle01
+    100048: Rectangle02
+    100050: Rectangle03
+    100052: Rectangle04
+    100054: Rectangle05
+    100056: Rectangle06
+    100058: Rectangle07
+    100060: Rectangle08
+    100062: Rectangle09
+    100064: Rectangle10
+    100066: Rectangle11
+    100068: Rectangle12
+    400000: 3D Models at 3dxy
+    400002: Box01
+    400004: Box02
+    400006: Box03
+    400008: Box05
+    400010: Box06
+    400012: ChamferBox01
+    400014: ChamferBox02
+    400016: //RootNode
+    400018: Line01
+    400020: Line02
+    400022: Line03
+    400024: Line04
+    400026: Line05
+    400028: Line07
+    400030: Line08
+    400032: Line09
+    400034: Line10
+    400036: Line11
+    400038: Line12
+    400040: Line13
+    400042: Line14
+    400044: Line15
+    400046: Rectangle01
+    400048: Rectangle02
+    400050: Rectangle03
+    400052: Rectangle04
+    400054: Rectangle05
+    400056: Rectangle06
+    400058: Rectangle07
+    400060: Rectangle08
+    400062: Rectangle09
+    400064: Rectangle10
+    400066: Rectangle11
+    400068: Rectangle12
+    2100000: 'Material #3'
+    2100002: 'Material #1'
+    2100004: 'Material #2'
+    2300000: Box01
+    2300002: Box02
+    2300004: Box03
+    2300006: Box05
+    2300008: Box06
+    2300010: ChamferBox01
+    2300012: ChamferBox02
+    2300014: Line01
+    2300016: Line02
+    2300018: Line03
+    2300020: Line04
+    2300022: Line05
+    2300024: Line07
+    2300026: Line08
+    2300028: Line09
+    2300030: Line10
+    2300032: Line11
+    2300034: Line12
+    2300036: Line13
+    2300038: Line14
+    2300040: Line15
+    2300042: Rectangle01
+    2300044: Rectangle02
+    2300046: Rectangle03
+    2300048: Rectangle04
+    2300050: Rectangle05
+    2300052: Rectangle06
+    2300054: Rectangle07
+    2300056: Rectangle08
+    2300058: Rectangle09
+    2300060: Rectangle10
+    2300062: Rectangle11
+    2300064: Rectangle12
+    3300000: Box01
+    3300002: Box02
+    3300004: Box03
+    3300006: Box05
+    3300008: Box06
+    3300010: ChamferBox01
+    3300012: ChamferBox02
+    3300014: Line01
+    3300016: Line02
+    3300018: Line03
+    3300020: Line04
+    3300022: Line05
+    3300024: Line07
+    3300026: Line08
+    3300028: Line09
+    3300030: Line10
+    3300032: Line11
+    3300034: Line12
+    3300036: Line13
+    3300038: Line14
+    3300040: Line15
+    3300042: Rectangle01
+    3300044: Rectangle02
+    3300046: Rectangle03
+    3300048: Rectangle04
+    3300050: Rectangle05
+    3300052: Rectangle06
+    3300054: Rectangle07
+    3300056: Rectangle08
+    3300058: Rectangle09
+    3300060: Rectangle10
+    3300062: Rectangle11
+    3300064: Rectangle12
+    4300000: Line01
+    4300002: Line03
+    4300004: Line04
+    4300006: Line02
+    4300008: Line07
+    4300010: Line08
+    4300012: Box02
+    4300014: Line09
+    4300016: Line10
+    4300018: Line11
+    4300020: Line12
+    4300022: Box05
+    4300024: Line13
+    4300026: ChamferBox01
+    4300028: Line05
+    4300030: Line14
+    4300032: ChamferBox02
+    4300034: Line15
+    4300036: Box01
+    4300038: Box06
+    4300040: Rectangle06
+    4300042: Rectangle05
+    4300044: Rectangle04
+    4300046: Rectangle03
+    4300048: Rectangle02
+    4300050: Rectangle01
+    4300052: Rectangle07
+    4300054: Rectangle08
+    4300056: Rectangle09
+    4300058: Rectangle10
+    4300060: Rectangle11
+    4300062: Rectangle12
+    4300064: Box03
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
